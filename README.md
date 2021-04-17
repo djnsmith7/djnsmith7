@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 
 ## Languages and Tools:
 
-https://avatars.githubusercontent.com/u/4430336?s=200&v=4
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djnsmith7)](https://github.com/anuraghazra/github-readme-stats)
