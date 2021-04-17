@@ -1,6 +1,6 @@
 ### My current project status:
 
-Here are some ideas to get you started:
+Hello! Welcome to my profile! 🤝
 
 - 🔭 I’m currently working on Oracle PL/SQL & Java projects
 - 🌱 I’m currently learning Oracle PL/SQL & Java
