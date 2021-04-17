@@ -5,7 +5,7 @@ Hello! Welcome to my profile! 🤝
 - 🔭 I’m currently working on Oracle PL/SQL & Java projects
 - 🌱 I’m currently learning Oracle PL/SQL & Java
 - 🥅 2021 Goals: Secure an Oracle PL/SQL opportunity 
-- ⚡ Fun fact: ... My hobbies include building PCs and riding fast motorcycles at our local racetracks.
+- ⚡ Fun fact: My hobbies include building PCs and riding fast motorcycles at our local racetracks.
 - 📫 How to reach me: djnsmith7@yahoo.com
 
 ## Languages and Tools:
