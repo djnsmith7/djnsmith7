@@ -12,12 +12,12 @@ Hello! Welcome to my profile! 🤝
 
 <table>
       <tr>
-        <td><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/oracle.svg"</td>
-        <td><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg"</td>
-        <td><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/eclipseide.svg"</td>
-        <td><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudiocode.svg"</td>
-        <td><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/microsoftoffice.svg"</td>
-        <td><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/googlesheets.svg"</td>
+        <td>img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/oracle.svg"</td>
+        <td>img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg"</td>
+        <td>img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/eclipseide.svg"</td>
+        <td>img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudiocode.svg"</td>
+        <td>img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/microsoftoffice.svg"</td>
+        <td>img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/googlesheets.svg"</td>
       </tr>
 </table>
   
