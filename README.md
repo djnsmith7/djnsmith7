@@ -10,7 +10,7 @@ Hello! Welcome to my profile! 🤝
 
 ## Languages and Tools:
 
-<table border=5>
+<table border=5 bgcolor='black'>
       <tr>
         <td><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/oracle.svg" />
         <td><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" />
