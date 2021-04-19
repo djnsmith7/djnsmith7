@@ -11,7 +11,7 @@ Hello! Welcome to my profile! 🤝
 <table class="table table-borderless">
       <thead>
             <tr>
-                <th scope="col>Languages and Tools</th>
+                <th scope="col">Languages and Tools</th>
             </tr>
       </thead>
       <tbody>
