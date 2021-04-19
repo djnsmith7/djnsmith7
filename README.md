@@ -10,14 +10,14 @@ Hello! Welcome to my profile! 🤝
 
 ## Languages and Tools:
 
-<table border=7 bgcolor='black'>
+<table border=none>
       <tr>
-        <td><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/oracle.svg" />
-        <td><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" />
-        <td><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/eclipseide.svg" />
-        <td><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudiocode.svg" />
-        <td><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/microsoftoffice.svg" />
-        <td><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/googlesheets.svg" />
+        <td style="border:none"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/oracle.svg" />
+        <td style="border:none"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" />
+        <td style="border:none"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/eclipseide.svg" />
+        <td style="border:none"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudiocode.svg" />
+        <td style="border:none"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/microsoftoffice.svg" />
+        <td style="border:none"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/googlesheets.svg" />
       </tr>
 </table>
   
