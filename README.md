@@ -10,17 +10,7 @@ Hello! Welcome to my profile! 🤝
 
 ## Languages and Tools:
 
-<!DOCTYPE html>
-<html>
-  <head>
-    <style>
-      table, td {
-        border: 10px solid black;
-      }
-    </style>
-  </head>
-  <body>
-    <table>
+<table>
       <tr>
         <td><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/oracle.svg" />
         <td><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" />
@@ -29,8 +19,6 @@ Hello! Welcome to my profile! 🤝
         <td><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/microsoftoffice.svg" />
         <td><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/googlesheets.svg" />
       </tr>
-    </table>
-  </body>
-</html>
-
+</table>
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djnsmith7&theme=tokyonight&show_icons=true)
