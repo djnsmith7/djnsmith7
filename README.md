@@ -8,12 +8,9 @@ Hello! Welcome to my profile! 🤝
 - ⚡ Fun fact: My hobbies include building PCs and riding fast motorcycles at our local racetracks.
 - 📫 How to reach me: djnsmith7@yahoo.com
 
+### Languages and Tools
+
 <table class="table table-borderless">
-      <thead>
-            <tr>
-                <th scope="col">Languages and Tools</th>
-            </tr>
-      </thead>
       <tbody>
             <tr>
                 <td><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/oracle.svg"</td>
