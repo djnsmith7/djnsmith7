@@ -12,7 +12,7 @@ Hello! Welcome to my profile! 🤝
 
 [<img align="left" alt="Oracle" width="26px" src="https://avatars.githubusercontent.com/u/4430336?s=200&v=4" />]
 [<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" />]
-[<img align="left" alt="Eclipse" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/eclipseide.svg" />]
+[<img align="left" alt="Eclipse" width="26px" src="https://avatars.githubusercontent.com/u/56974?s=200&v=4" />]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudiocode.svg" />]
 [<img align="left" alt="Microsoft Office" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/microsoftoffice.svg" />]
 [<img align="left" alt="Google Sheets" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/googlesheets.svg" />]
