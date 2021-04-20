@@ -10,16 +10,19 @@ Hello! Welcome to my profile! 🤝
 
 ### Languages and Tools:
 
-[<img align="left" img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/oracle.svg" />]
-[<img align="left" img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" />]
-[<img align="left" img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/eclipseide.svg" />]
-[<img align="left" img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudiocode.svg" />]
-[<img align="left" img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/microsoftoffice.svg" />]
-[<img align="left" img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/googlesheets.svg" />]
+<table>
+      <tbody>
+            <tr>
+                <td style="border: none"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/oracle.svg"</td>
+                <td style="border: none"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg"</td>
+                <td style="border: none"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/eclipseide.svg"</td>
+                <td style="border: none"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudiocode.svg"</td>
+                <td style="border: none"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/microsoftoffice.svg"</td>
+                <td style="border: none"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/googlesheets.svg"</td>
+            </tr>
+      </tbody>
+</table>
 
 <br />
-<br />
 
----
-  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djnsmith7&theme=tokyonight&show_icons=true)
