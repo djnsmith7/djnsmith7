@@ -15,4 +15,8 @@ Hello! Welcome to my profile! 🤝
 
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djnsmith7&theme=tokyonight&show_icons=true)
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  
+  <img align="left" alt="djnsmith7's GitHub Stats" src="https://github-readme-stats.djnsmith7.vercel.app/api?username=djnsmith7&show_icons=true&hide_border=true" />
+</details>
