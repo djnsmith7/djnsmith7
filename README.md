@@ -10,11 +10,8 @@ Hello! Welcome to my profile! 🤝
 
 ### Languages and Tools:
 
-[<img align="left" alt="Oracle" width="32px" src="https://avatars.githubusercontent.com/u/4430336?s=200&v=4" />]
-[<img align="left" alt="Eclipse" width="32px" src="https://avatars.githubusercontent.com/u/56974?s=200&v=4" />]
-[<img align="left" alt="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudiocode.svg" />]
-[<img align="left" alt="Microsoft Office" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/microsoftoffice.svg" />]
-[<img align="left" alt="Google Sheets" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/googlesheets.svg" />]
+[<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+[<img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
 
 <br />
 
