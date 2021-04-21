@@ -1,4 +1,4 @@
-### My current project status:
+## My current project status:
 
 Hello! Welcome to my profile! 🤝
 
