@@ -15,8 +15,4 @@ Hello! Welcome to my profile! 🤝
 
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  
-  <img align="left" alt="djnsmith7's GitHub Stats" src="https://github-readme-stats.djnsmith7.vercel.app/api?username=djnsmith7&show_icons=true&hide_border=true" />
-</details>
+
