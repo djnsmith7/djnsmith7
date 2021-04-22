@@ -8,19 +8,9 @@ Hello! Welcome to my profile! 🤝
 - ⚡ Fun fact: My hobbies include building PCs and riding fast motorcycles at our local racetracks.
 - 📫 How to reach me: djnsmith7@yahoo.com
 
-### Languages and Tools:
+### Technology Stack:
 
-<table>
-      <tbody>
-            <tr>
-                <td style="border: none"><img height="28" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/oracle.svg"</td>
-                <td style="border: none"><img height="28" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/eclipseide.svg"</td>
-                <td style="border: none"><img height="28" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudiocode.svg"</td>
-                <td style="border: none"><img height="28" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/microsoftoffice.svg"</td>
-                <td style="border: none"><img height="28" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/googlesheets.svg"</td>
-            </tr>
-      </tbody>
-</table>
+[<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
 
 <br />
 
