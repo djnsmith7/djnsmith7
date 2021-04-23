@@ -10,7 +10,7 @@ Hello! Welcome to my profile! 🤝
 
 ### Technology Stack:
 
-<p align="center">
+<p align="left">
       <img align="left" alt="Oracle" width="32px" src="https://avatars.githubusercontent.com/u/4430336?s=200&v=4" />
       <img align="left" alt="Java" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
       <img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
@@ -24,7 +24,7 @@ Hello! Welcome to my profile! 🤝
 <details>
   <summary>:zap: GitHub Stats</summary>
   
-  <img align="left" alt="djnsmith7's GitHub Stats" src="https://github-readme-stats-seven-murex.vercel.app/api?username=djnsmith7&show_icons=true&hide_border=true" />
+  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats-seven-murex.vercel.app/api?username=djnsmith7&show_icons=true&hide_border=true" />
 </details>
 
 
