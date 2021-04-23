@@ -10,16 +10,14 @@ Hello! Welcome to my profile! 🤝
 
 ### Technology Stack:
 
-<table>
-      <tr>
-            <td style="border: none"><img height="30" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/oracle.svg"</td>
-            <td style="border: none"><img height="30" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg"</td>
-            <td style="border: none"><img height="30" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/eclipseide.svg"</td>
-            <td style="border: none"><img height="30" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudiocode.svg"</td>
-            <td style="border: none"><img height="30" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/microsoftoffice.svg"</td>
-            <td style="border: none"><img height="30" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/googlesheets.svg"</td>
-      </tr>
-</table>
+<p align="center">
+      <img align="left" alt="Oracle" width="32px" src="https://avatars.githubusercontent.com/u/4430336?s=200&v=4" />
+      <img align="left" alt="Java" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+      <img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+      <img align="left" alt="Eclipse" width="32px" src="https://avatars.githubusercontent.com/u/56974?s=200&v=4" />
+      <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+      <img align="left" alt="Microsoft Office" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/microsoftoffice.svg" />
+</p>
 
 <br />
 
@@ -28,4 +26,5 @@ Hello! Welcome to my profile! 🤝
   
   <img align="left" alt="djnsmith7's GitHub Stats" src="https://github-readme-stats-seven-murex.vercel.app/api?username=djnsmith7&show_icons=true&hide_border=true" />
 </details>
+
 
