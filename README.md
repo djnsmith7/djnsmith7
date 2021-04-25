@@ -27,6 +27,7 @@ Hello! Welcome to my profile! 🤝
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+      
   <img align="left" alt="My GitHub Stats" src="https://github-readme-stats-seven-murex.vercel.app/api?username=djnsmith7&theme=algolia&show_icons=true&hide_border=true" />
   
 </details>
