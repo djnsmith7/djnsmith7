@@ -44,6 +44,7 @@ Hello! Welcome to my profile! 🤝
 
 <details>
   <summary>:zap: GitHub Repo Card Stats</summary>
+<br />
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djnsmith7&repo=github-readme-stats)](https://github.com/djnsmith7/github-readme-stats)
 </details>
