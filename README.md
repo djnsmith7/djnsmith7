@@ -29,26 +29,4 @@ Hello! Welcome to my profile! 🤝
   <summary>:zap: GitHub Stats</summary>
 <br />
   <img align="left" alt="My GitHub Stats" src="https://github-readme-stats-seven-murex.vercel.app/api?username=djnsmith7&theme=algolia&show_icons=true&hide_border=true" />
-  
 </details>
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-<details>
-  <summary>:zap: GitHub Repo Card Stats</summary>
-<br />
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djnsmith7&repo=github-readme-stats)](https://github.com/djnsmith7/github-readme-stats)
-</details>
-
-
-
-
