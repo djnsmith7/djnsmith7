@@ -32,6 +32,7 @@ Hello! Welcome to my profile! 🤝
 </details>
 
 <br />
+<br />
 
 <details>
   <summary>:zap: GitHub Repo Card Stats</summary>
